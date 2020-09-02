@@ -4,14 +4,8 @@
 
 
 
-
-
-
-
-
-
-
-
+_italics_
+**Strong**
 
 
 * List1
@@ -20,3 +14,6 @@
 1. LIst1
 2. List2
 3. LIst3
+
+
+Use ' for ' loop
