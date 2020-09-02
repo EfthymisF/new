@@ -17,3 +17,25 @@ _italics_
 
 
 Use ' for ' loop
+' ' ' hhhhhh
+jjjkk
+' ' '
+Inline `code` has `back-ticks around` i
+`awk -F `
+
+```
+cat theboys.tsv | awk -F "," '{ print $1 " " $2 }'
+
+
+
+```
+Table
+|Table|Goes|Here|  
+|--- |--- |--- |
+|123|124|125|
+>keep smiling
+
+--- 
+
+
+
